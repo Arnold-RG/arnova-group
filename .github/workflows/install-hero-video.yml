@@ -10,7 +10,7 @@ jobs:
   install-video:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           persist-credentials: true
       - name: Install video download and processing tools
