@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 0 248 256" width="248" height="256" fill="none" role="img">
+  <title>Arnova Group</title>
+  <path d="M 32.00 12.00 C 39.37 12.00 61.00 66.71 61.00 122.00 C 61.00 177.29 39.37 232.00 32.00 232.00 C 24.63 232.00 3.00 177.29 3.00 122.00 C 3.00 66.71 24.63 12.00 32.00 12.00 Z" fill="none" stroke="#4F4D4B" stroke-width="15.5" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.2"/>
+  <path d="M 32.00 30.00 L 32.00 68.00" fill="none" stroke="#4F4D4B" stroke-width="11.0" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.2"/>
+  <path d="M 32.00 176.00 L 32.00 214.00" fill="none" stroke="#4F4D4B" stroke-width="11.0" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.2"/>
+  <path d="M 32.00 106.50 L 44.00 122.00 L 32.00 137.50 L 20.00 122.00 Z M 32.00 115.00 L 37.40 122.00 L 32.00 129.00 L 26.60 122.00 Z" fill="#4F4D4B" fill-rule="evenodd"/>
+  <path d="M 16.10 79.00 L 26.70 93.00 L 37.30 79.00 L 47.90 93.00" fill="none" stroke="#4F4D4B" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.2"/>
+  <path d="M 16.10 151.00 L 26.70 165.00 L 37.30 151.00 L 47.90 165.00" fill="none" stroke="#4F4D4B" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.2"/>
+  <circle cx="128.0" cy="64.0" r="20.0" fill="none" stroke="#4F4D4B" stroke-width="15.5" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.2"/>
+  <path d="M 76.00 56.00 L 128.00 128.00 L 180.00 56.00" fill="none" stroke="#4F4D4B" stroke-width="15.5" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2.2"/>
+  <path d="M 61.33 230.49 L 124.80 128.47 L 131.20 128.47 L 194.67 230.49 L 181.51 238.67 L 148.89 186.25 L 107.11 186.25 L 74.49 238.67 Z M 128.00 152.67 L 139.25 170.75 L 116.75 170.75 Z" fill="#4F4D4B" fill-rule="evenodd"/>
+  <path d="M 210.00 8.00 C 211.93 12.20 218.75 23.12 218.75 25.64 C 218.75 31.52 212.45 48.80 214.00 50.00 L 214.00 228.00 A 4.00 4.00 0 0 1 206.00 228.00 L 206.00 50.00 C 207.55 48.80 201.25 31.52 201.25 25.64 C 201.25 23.12 208.07 12.20 210.00 8.00 Z" fill="#4F4D4B"/>
+
+</svg>
